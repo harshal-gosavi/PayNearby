@@ -1,0 +1,933 @@
+2022-08-07 14:56:56,924 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:12:18,213 - django.request - WARNING - Not Found: /customer/post_data
+2022-08-07 15:12:47,065 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/PayNearby/urls.py changed, reloading.
+2022-08-07 15:12:53,390 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:13:41,094 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:13:49,614 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 15:13:50,128 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:13:58,670 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/PayNearby/urls.py changed, reloading.
+2022-08-07 15:13:59,207 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:14:03,582 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:14:08,982 - django.request - WARNING - Forbidden: /account/post_data
+2022-08-07 15:14:33,704 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/PayNearby/settings.py changed, reloading.
+2022-08-07 15:14:34,231 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:14:39,962 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:32:29,223 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:35:48,287 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:35:48,760 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:36:02,335 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:36:02,852 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:36:15,289 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:36:15,911 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:36:34,472 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:36:34,996 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:36:46,586 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:36:47,158 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:36:59,798 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:37:00,273 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:37:10,865 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:37:11,396 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:37:38,477 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:37:39,380 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:38:48,049 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:38:48,536 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:39:41,950 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:39:42,447 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:39:51,037 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:39:51,501 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:40:25,625 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:40:26,129 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:40:32,667 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:40:33,133 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:40:51,029 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:40:51,499 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:41:24,727 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:41:25,178 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:43:14,290 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:44:24,159 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:44:24,611 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:44:32,843 - root - ERROR - Save Transaction Data:[Errno 2] No such file or directory: 'resourcesCustomer_Dataset.csv'
+2022-08-07 15:45:12,102 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:45:13,051 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:45:17,350 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:45:18,186 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:45:23,649 - root - ERROR - Save Transaction Data:[Errno 2] No such file or directory: 'resources/Customer_Dataset.csv'
+2022-08-07 15:46:04,812 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:46:06,460 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:46:23,907 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:46:24,630 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:46:53,368 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:46:53,927 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:46:57,879 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:46:58,464 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:47:37,517 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:47:38,069 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:47:44,277 - root - ERROR - Save Transaction Data:read_csv() got an unexpected keyword argument 'index'
+2022-08-07 15:48:38,037 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:48:38,650 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:48:40,609 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:48:41,135 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:51:14,685 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:51:15,507 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:51:50,527 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:51:51,380 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:52:17,525 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:52:18,158 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:52:30,716 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:52:31,292 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:52:39,446 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:52:40,045 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:52:47,087 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:52:47,845 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:52:54,921 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:52:55,482 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:54:29,220 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:54:29,963 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:54:33,094 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:54:33,808 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:54:39,807 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:54:40,518 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:54:42,591 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:54:43,410 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:54:50,477 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:54:51,492 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:55:02,457 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 15:55:03,045 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 15:55:16,384 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 15:55:16,989 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:03:41,658 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:03:45,157 - root - ERROR - Save Transaction Data:cannot unpack non-iterable NoneType object
+2022-08-07 16:04:06,377 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:04:07,090 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:04:25,844 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:04:26,633 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:04:46,292 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:04:46,903 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:05:02,233 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:05:02,778 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:07:09,130 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:07:09,640 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:08:19,721 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:08:20,262 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:08:25,339 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:08:25,861 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:09:17,133 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:09:17,884 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:09:50,898 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:09:51,411 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:09:55,400 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:09:56,172 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:10:06,482 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:10:07,355 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:12:01,652 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:12:02,175 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:12:06,590 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:12:07,237 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:12:17,373 - root - ERROR - Save Transaction Data:not enough values to unpack (expected 7, got 6)
+2022-08-07 16:13:20,798 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:13:21,417 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:14:21,692 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:14:22,486 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:21:15,574 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:21:23,259 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:21:45,815 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:21:46,368 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:22:05,808 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:22:06,576 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:22:31,799 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 16:22:32,634 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:25:21,774 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:25:22,340 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:26:26,343 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:26:27,024 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:26:32,082 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:26:32,725 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:26:37,784 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:26:38,369 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:27:10,084 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:27:41,377 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:27:42,311 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:27:58,264 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:28:42,178 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:28:42,741 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:28:47,897 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:29:02,268 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-07 16:29:02,904 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:29:38,847 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:29:39,444 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:29:43,479 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:29:44,271 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:29:49,842 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:30:02,014 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:30:02,544 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:30:04,100 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:30:25,074 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:30:25,646 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:30:28,366 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:31:35,779 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:31:37,277 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:31:42,297 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:32:19,096 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:32:19,777 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:32:30,201 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:32:30,778 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:32:33,925 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:32:41,368 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:32:41,998 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:32:46,170 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:32:46,710 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:34:03,729 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:34:04,752 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:34:07,875 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:34:54,123 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:34:54,762 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:35:06,400 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:35:06,995 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:35:26,613 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:35:27,311 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:35:48,187 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:35:48,934 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:38:02,061 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:38:02,789 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:42:32,133 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:42:33,220 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:43:19,727 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-07 16:43:20,768 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:46:03,951 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 16:46:04,620 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:46:11,940 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:46:12,530 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:46:44,261 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:46:44,908 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:46:46,976 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:46:47,742 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:47:51,236 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:47:52,003 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:48:30,655 - django.request - WARNING - Method Not Allowed: /account/post_data
+2022-08-07 16:49:03,243 - root - ERROR - Save Transaction Data:Expected a `date`, but got a `datetime`. Refusing to coerce, as this may mean losing timezone information. Use a custom read-only field and deal with timezone issues explicitly.
+2022-08-07 16:49:48,604 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:52:08,312 - root - ERROR - Save Transaction Data:JSON parse error - Expecting ',' delimiter: line 3 column 5 (char 34)
+2022-08-07 16:52:12,666 - root - ERROR - Process Data:'NoneType' object has no attribute 'split'
+2022-08-07 16:52:12,666 - root - ERROR - Save Transaction Data:list index out of range
+2022-08-07 16:54:17,295 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:54:17,848 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 16:56:07,935 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 16:56:08,604 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:01:49,752 - root - ERROR - Save Transaction Data:(1264, "Out of range value for column 'rrn' at row 1")
+2022-08-07 17:02:23,281 - root - ERROR - Save Transaction Data:(1264, "Out of range value for column 'rrn' at row 1")
+2022-08-07 17:03:15,187 - root - ERROR - Save Transaction Data:(1264, "Out of range value for column 'rrn' at row 1")
+2022-08-07 17:03:52,995 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/models.py changed, reloading.
+2022-08-07 17:03:53,900 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:04:09,099 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:05:19,074 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 17:05:19,655 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:05:31,882 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 17:05:32,401 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:07:02,785 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-07 17:07:03,308 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:07:43,992 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:07:44,561 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:08:03,996 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:08:04,676 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:08:40,584 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:08:41,605 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:08:53,029 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:08:53,533 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:09:13,978 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:09:14,735 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-07 17:09:42,166 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-07 17:09:42,876 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 15:08:21,610 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 15:11:15,509 - django.request - WARNING - Not Found: /favicon.ico
+2022-08-08 16:33:38,824 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:34:08,438 - django.request - WARNING - Not Found: /favicon.ico
+2022-08-08 16:45:10,426 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 16:45:22,637 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:46:26,995 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 16:46:28,042 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:46:39,565 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 16:46:40,271 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:46:58,292 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:46:59,371 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:49:19,857 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:49:22,577 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:49:35,571 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:49:36,630 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:49:47,165 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:49:47,767 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:50:08,787 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:50:09,595 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:50:31,755 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:50:32,716 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:51:55,349 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:51:56,215 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:52:05,865 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:52:06,886 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:52:10,169 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:52:10,843 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:53:17,042 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:53:18,219 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:53:28,607 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:53:29,487 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:53:52,512 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:53:53,792 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:53:56,510 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:53:57,822 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:54:12,607 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:54:13,826 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:54:51,236 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:54:51,881 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:56:03,336 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:56:04,213 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:56:11,685 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:56:12,353 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:56:39,552 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:56:40,408 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:57:11,823 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:57:12,419 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:57:41,956 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:57:42,513 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:57:58,968 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:57:59,841 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 16:59:03,255 - root - ERROR - Save Transaction Data:[Errno 2] No such file or directory: 'resources/Customer_Dataset1.csv'
+2022-08-08 16:59:42,372 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 16:59:57,415 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:00:37,579 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:00:38,261 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:00:41,404 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:00:42,089 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:00:50,755 - root - ERROR - File not found
+2022-08-08 17:00:57,329 - root - ERROR - Save Transaction Data:'file'
+2022-08-08 17:01:21,047 - root - ERROR - File not found
+2022-08-08 17:04:10,566 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:04:11,167 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:04:15,159 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:04:15,802 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:04:33,137 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:04:33,808 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:05:36,821 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:05:37,376 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:05:39,931 - root - ERROR - Save Transaction Data:'list' object has no attribute 'lower'
+2022-08-08 17:05:55,995 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:05:56,604 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:07:43,165 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:07:43,726 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:08:18,115 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:08:18,713 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:08:47,610 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:08:50,715 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:08:51,553 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:10:09,137 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 17:10:10,941 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:13:08,404 - root - ERROR - File not found
+2022-08-08 17:13:11,722 - root - ERROR - Save Transaction Data:'file'
+2022-08-08 17:13:16,690 - root - ERROR - Save Transaction Data:[Errno 21] Is a directory: 'resources/'
+2022-08-08 17:13:52,259 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:13:53,501 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:13:58,414 - root - ERROR - Save Transaction Data:[Errno 21] Is a directory: 'resources/'
+2022-08-08 17:15:02,603 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:15:03,106 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:15:06,365 - root - ERROR - Save Transaction Data:[Errno 21] Is a directory: 'resources/'
+2022-08-08 17:15:29,870 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:15:30,593 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:15:45,153 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:15:45,833 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:15:51,421 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:15:52,137 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:16:03,583 - root - ERROR - Save Transaction Data:[Errno 21] Is a directory: 'resources/'
+2022-08-08 17:16:38,866 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:16:39,454 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:16:51,554 - root - ERROR - Save Transaction Data:[Errno 21] Is a directory: 'resources/'
+2022-08-08 17:16:58,698 - root - ERROR - File not found
+2022-08-08 17:17:56,128 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:17:56,861 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:18:23,089 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:18:23,850 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:18:45,623 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:18:46,198 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:19:00,701 - django.request - ERROR - Internal Server Error: /account/post_data_csv
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 17:19:12,122 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:19:13,120 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:19:16,992 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:19:18,416 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:19:36,123 - root - ERROR - File not found
+2022-08-08 17:19:40,691 - root - ERROR - Save Transaction Data:'file'
+2022-08-08 17:20:27,141 - root - ERROR - Save Transaction Data:'txn_date'
+2022-08-08 17:20:32,660 - root - ERROR - Save Transaction Data:'amount'
+2022-08-08 17:23:03,150 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:23:05,085 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:23:25,546 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:23:26,068 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:23:31,423 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:23:32,387 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:23:48,010 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:23:49,394 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:23:53,823 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:23:54,990 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:23:57,335 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:23:58,256 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:07,071 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:24:07,593 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:17,340 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:24:18,136 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:21,313 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:24:21,985 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:34,499 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:24:35,314 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:51,097 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:24:51,736 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:24:59,409 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:25:00,033 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:25:07,576 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:25:08,325 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:25:09,869 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:25:10,434 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:25:14,825 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:25:15,655 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:25:21,055 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:25:21,610 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:26:12,046 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:26:12,749 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:26:19,269 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:26:19,955 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:26:37,609 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-08 17:26:38,843 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:27:00,796 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-08 17:27:01,510 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:27:19,556 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:27:20,255 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:27:26,004 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:27:26,588 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:27:51,308 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:27:52,092 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:28:01,447 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:28:02,502 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:31:30,385 - root - ERROR - Save Transaction Data:DISTINCT ON fields is not supported by this database backend
+2022-08-08 17:36:23,822 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:36:24,421 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:36:33,938 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:36:34,755 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:36:42,399 - root - ERROR - Save Transaction Data:Cannot resolve keyword 'banks' into field. Choices are: account_holder, account_number, amount, bank, created_date, rrn, transaction_type, txn, txn_date, updated_on, xxxx_number
+2022-08-08 17:36:50,329 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:36:51,951 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:52:17,634 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:52:18,230 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:52:25,632 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:52:26,207 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:57:36,277 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 17:57:37,295 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 17:59:43,463 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 17:59:44,298 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:00:15,249 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:00:15,896 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:01:55,416 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:01:56,223 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:02:22,006 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:02:22,948 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:02:40,582 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:02:41,216 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:02:43,354 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:02:44,223 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:02:52,258 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:02:52,897 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:03:14,559 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:03:15,197 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:03:29,495 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:03:30,784 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:03:47,204 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:03:47,888 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:03:59,663 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:04:00,502 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:04:11,785 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:04:12,576 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:04:26,410 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:04:27,205 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:04:30,499 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:04:31,036 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:07:31,805 - django.request - WARNING - Not Found: /account
+2022-08-08 18:07:36,961 - django.request - WARNING - Not Found: /account/
+2022-08-08 18:09:16,463 - django.request - WARNING - Not Found: /account/
+2022-08-08 18:09:25,997 - django.request - WARNING - Not Found: /account
+2022-08-08 18:09:49,745 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:09:57,221 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:10:04,021 - django.request - WARNING - Not Found: /account/transaction
+2022-08-08 18:10:16,810 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:10:17,571 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:10:20,327 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:10:24,357 - django.request - WARNING - Not Found: /account/transaction
+2022-08-08 18:10:30,771 - django.request - WARNING - Not Found: /account/transaction
+2022-08-08 18:12:11,506 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:12:12,473 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:12:40,590 - django.request - WARNING - Not Found: /account/transaction/2022/2/23/2020
+2022-08-08 18:12:48,512 - django.request - ERROR - Internal Server Error: /account/transaction/2022/2
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:12:52,906 - django.request - WARNING - Not Found: /account/transaction/2022/2/
+2022-08-08 18:14:09,714 - django.request - WARNING - Not Found: /account/transaction
+2022-08-08 18:14:18,918 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:14:19,455 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:14:28,608 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:14:29,189 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:14:32,119 - django.request - WARNING - Not Found: /account/transaction
+2022-08-08 18:15:57,893 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:15:58,513 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:16:36,614 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:16:37,157 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:16:46,496 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:16:47,150 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:16:57,516 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:16:58,111 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:17:10,513 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:17:11,113 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:17:26,930 - django.request - ERROR - Internal Server Error: /account/
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:18:00,940 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:18:01,515 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:18:09,097 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:19:12,864 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:19:13,763 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:19:23,910 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:19:24,574 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:19:54,484 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:19:55,116 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:20:03,494 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:20:04,034 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:20:11,894 - root - ERROR - Get Transactions Interval Data:time data '2022/2/23' does not match format '%Y-%m-%d'
+2022-08-08 18:20:31,415 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:20:55,947 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:20:56,877 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:21:01,090 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:24:19,819 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:24:20,802 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:25:01,086 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:25:01,559 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:25:27,303 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:25:27,890 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:25:40,509 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:25:41,067 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:25:45,386 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:25:46,115 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:25:53,441 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:25:54,162 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:26:29,261 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:26:44,498 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:27:40,036 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:27:40,691 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:27:51,146 - django.request - ERROR - Internal Server Error: /account/transaction
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 18:28:00,716 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:28:01,548 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:30:16,164 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:30:17,600 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:30:48,171 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:30:48,988 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:30:51,200 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:30:51,977 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:31:16,681 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:31:17,508 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:32:45,797 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:32:46,403 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:34:06,139 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 18:34:06,721 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:34:24,063 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 18:34:24,835 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:34:45,535 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 18:34:46,118 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:35:08,892 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 18:35:09,443 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:35:11,504 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 18:35:12,684 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:37:04,204 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:37:04,871 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:37:06,911 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:37:07,685 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:37:34,362 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:37:35,183 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:38:39,179 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:38:39,874 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:39:00,640 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:39:01,237 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:39:19,961 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:39:20,683 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:39:24,827 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:39:25,745 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:40:15,397 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:40:16,019 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:40:41,923 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:40:42,765 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:40:52,122 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:40:52,674 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:41:03,906 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:41:04,596 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:42:33,306 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:42:33,987 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:42:36,340 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:43:29,863 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:43:30,391 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:43:51,078 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:43:51,612 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:44:29,894 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:44:30,521 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:44:34,692 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:44:35,656 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:46:37,715 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:46:40,113 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:47:03,236 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:47:04,344 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:48:46,329 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:48:47,017 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:48:52,800 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:48:53,491 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:49:32,443 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:49:33,038 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:49:36,585 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:49:37,120 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:49:46,228 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:49:46,776 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:49:54,895 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:49:55,580 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:50:55,332 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:50:56,181 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:51:02,342 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-08 18:51:02,891 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:51:07,923 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-08 18:51:08,717 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:51:15,025 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/serializers.py changed, reloading.
+2022-08-08 18:51:15,609 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:51:29,136 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 18:51:29,702 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:54:13,324 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 18:54:14,050 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:54:55,603 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 18:54:56,216 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:55:19,983 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/utility/utils.py changed, reloading.
+2022-08-08 18:55:20,541 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 18:59:41,044 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 18:59:41,575 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:00:31,717 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:00:32,264 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:01:35,204 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:01:35,796 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:03:09,398 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:03:10,115 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:04:59,467 - django.request - ERROR - Internal Server Error: /account/transactions_summary
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 19:05:31,778 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:05:32,435 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:05:36,462 - django.request - ERROR - Internal Server Error: /account/transactions_summary
+Traceback (most recent call last):
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/haeshal/Documents/PayNearby/PayNearby/venv/lib/python3.8/site-packages/rest_framework/views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2022-08-08 19:06:26,160 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:06:26,969 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:08:18,815 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:08:19,445 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:09:58,039 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:09:58,996 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:10:01,181 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:10:01,811 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:10:04,730 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:10:05,510 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:10:15,890 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:10:20,524 - root - ERROR - Get Customers Data:'transactions_type'
+2022-08-08 19:10:56,022 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:10:56,722 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:11:00,356 - root - ERROR - Get Customers Data:unhashable type: 'dict'
+2022-08-08 19:11:20,737 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:11:21,301 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:13:12,581 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 19:13:13,674 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:13:15,524 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 19:13:16,023 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:17:15,318 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:17:26,304 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:17:34,372 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:17:36,428 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:17:41,500 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:17:42,037 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:17:46,004 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:17:46,838 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:18:30,059 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:18:30,836 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:18:42,620 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:18:43,297 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:18:51,484 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:18:52,158 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:18:57,222 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:18:57,943 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:19:43,288 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:19:48,210 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:19:54,682 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:19:55,519 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:20:05,995 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:20:06,957 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:21:58,618 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:21:59,152 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:22:02,494 - root - ERROR - Get Transactions Amount Summary Data:too many values to unpack (expected 2)
+2022-08-08 19:23:36,983 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:23:37,834 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:24:20,096 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:24:20,708 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:24:24,901 - root - ERROR - Get Transactions Amount Summary Data:'amount_sum'
+2022-08-08 19:24:32,304 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:24:32,881 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:24:34,476 - root - ERROR - Get Transactions Amount Summary Data:'amount'
+2022-08-08 19:27:08,504 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:27:09,040 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:27:28,848 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:27:29,977 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:27:39,556 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:27:45,431 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:27:58,868 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:27:59,579 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:28:06,240 - root - ERROR - Get Transactions Amount Summary Data:Object of type QuerySet is not JSON serializable
+2022-08-08 19:29:13,782 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:29:14,344 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:29:51,460 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:29:52,244 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:29:55,294 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:29:56,165 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:29:58,863 - root - ERROR - Get Transactions Amount Summary Data:Object of type QuerySet is not JSON serializable
+2022-08-08 19:31:11,642 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:31:12,230 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:31:18,314 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:31:18,964 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:31:27,198 - root - ERROR - Get Transactions Amount Summary Data:'Transaction' object is not subscriptable
+2022-08-08 19:31:43,969 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:31:44,684 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:31:45,698 - root - ERROR - Get Transactions Amount Summary Data:'Transaction' object is not subscriptable
+2022-08-08 19:32:08,747 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:32:09,374 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:33:26,705 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:33:27,409 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:33:56,518 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:33:57,279 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:34:06,097 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:34:06,970 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:34:09,422 - root - ERROR - Get Transactions Amount Summary Data:name 'Cdount' is not defined
+2022-08-08 19:34:34,117 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:34:34,680 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:36:17,967 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:36:23,844 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:36:30,906 - root - ERROR - Get Transactions Amount Summary Data:Cannot resolve keyword 'admount' into field. Choices are: account_holder, account_number, amount, bank, created_date, rrn, transaction_type, txn, txn_date, updated_on, xxxx_number
+2022-08-08 19:36:34,762 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:36:35,306 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:36:51,830 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:36:52,510 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:37:08,051 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:37:08,642 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:37:19,255 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:37:19,722 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:38:34,136 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 19:38:34,659 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:38:37,577 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/admin.py changed, reloading.
+2022-08-08 19:38:38,463 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:40:32,278 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:40:32,810 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:40:36,794 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:40:37,370 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:40:40,668 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:40:41,222 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:40:45,313 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:40:45,901 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:41:16,973 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/urls.py changed, reloading.
+2022-08-08 19:41:17,745 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:41:20,195 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:41:21,006 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:41:31,359 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:41:31,899 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:41:34,946 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:41:35,681 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:41:44,803 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:41:45,590 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:43:48,079 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:43:48,794 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:43:52,909 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:43:53,675 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:44:03,426 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:44:42,197 - root - ERROR - Get Total Transactions Amount Summary Data:'QuerySet' object has no attribute 'sum'
+2022-08-08 19:44:54,190 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:44:54,944 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:45:38,574 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:45:39,270 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:45:54,003 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:45:54,561 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-08 19:46:06,990 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-08 19:46:08,253 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:18:20,695 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:29:20,206 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:47:11,619 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:50:24,881 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:50:26,124 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:50:48,348 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:51:04,869 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:51:20,498 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:51:26,059 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:53:37,293 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:53:43,212 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:54:08,275 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:54:14,077 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:54:53,769 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:55:06,093 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 07:57:33,348 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 07:57:41,817 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:28:36,824 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:28:37,418 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:29:06,441 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:29:07,163 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:29:22,777 - django.request - WARNING - Not Found: /favicon.ico
+2022-08-09 08:30:18,970 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:30:24,346 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:30:47,670 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:30:48,260 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:31:09,009 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:31:09,643 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:31:41,294 - django.utils.autoreload - INFO - /home/haeshal/Documents/PayNearby/PayNearby/Customer/views.py changed, reloading.
+2022-08-09 08:31:42,287 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
+2022-08-09 08:51:29,423 - django.utils.autoreload - INFO - Watching for file changes with StatReloader
