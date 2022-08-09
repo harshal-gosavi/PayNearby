@@ -9,10 +9,10 @@ Design a restful API for customer data
 
 API endpoints: https://documenter.getpostman.com/view/21125999/VUjMq787
 
-# Note: Think database modeling in a way to accommodate ingesting 10M records everyday
+Note: Think database modeling in a way to accommodate ingesting 10M records everyday
 --> We can do several steps for handling Millions of data like Caching strategies, chunk approach, Data preprocessing
 
-# For DATABASE :- You can create new DB and save credentials in environment->dev.env file
+For DATABASE :- You can create new DB and save credentials in environment->dev.env file
 
 After follow the steps like:
     - python manage.py makemigrations
